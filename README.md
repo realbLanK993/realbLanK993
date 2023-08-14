@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @realbLanK993
+- 👋 Hi, fellow cat person here
 - 👀 I’m currently interning as a Frontend Developer
 - 🌱 I’m currently learning Data Science
 - 📫 Reach me through manishsuresh993@gmail.com
