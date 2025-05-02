@@ -1,6 +1,4 @@
 - 👋 Hi, fellow cat person here
-- 👀 I’m currently the webops core of IITM BS Paradox
-- 🌱 I’m currently learning Data Science
 - 📫 Reach me through manishsuresh993@gmail.com
 
 <!---
